@@ -1,4 +1,4 @@
-大牛的项目，拿来学习以下，地址https://github.com/yao-matrix/deepSpeech2
+大牛的项目，拿来学习一下，地址https://github.com/yao-matrix/deepSpeech2
 # TensorFlow implementation of DeepSpeech2
 End-to-end speech recognition using TensorFlow
 
